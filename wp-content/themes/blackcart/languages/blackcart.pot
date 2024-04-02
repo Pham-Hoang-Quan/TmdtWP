@@ -1,0 +1,515 @@
+# Copyright (C) 2023 smartlog
+# This file is distributed under the same license as the smartlog package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BlackCart 1.0\n"
+"POT-Creation-Date: 2024-03-16 09:17+0545\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Theme Canary<themecanary@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: inc/admin/admin-notice.php:12
+#, php-format
+msgid "Welcome to %s"
+msgstr ""
+
+#: inc/admin/admin-notice.php:15
+#, php-format
+msgid "Thank you for choosing %1$s! Explore beautiful templates and setup your site"
+msgstr ""
+
+#: inc/admin/admin-notice.php:19
+#, php-format
+msgid "Get started with %s"
+msgstr ""
+
+#: inc/admin/admin-notice.php:21
+msgid "Upgrade BlackCart Pro"
+msgstr ""
+
+#: inc/admin/theme-info.php:14
+msgid "About Theme"
+msgstr ""
+
+#: inc/admin/theme-info.php:14
+msgid "BlackCart Theme"
+msgstr ""
+
+#: inc/admin/theme-info.php:48
+msgid "Multipurpose WordPress Block Based Theme"
+msgstr ""
+
+#: inc/admin/theme-info.php:54 inc/admin/theme-info.php:266
+msgid "Documentation"
+msgstr ""
+
+#: inc/admin/theme-info.php:57
+msgid "Demo"
+msgstr ""
+
+#: inc/admin/theme-info.php:66
+msgid "Download Demo content for Free!"
+msgstr ""
+
+#: inc/admin/theme-info.php:67
+msgid "Install Recommended Plugins and access to all the Theme Canary Demo templates. This plugin will help you to show exactly as shown in demo"
+msgstr ""
+
+#: inc/admin/theme-info.php:84
+msgid "Note: Clicking the button will both install and activate recommended plugins. It may take few minutes to install all the plugins"
+msgstr ""
+
+#: inc/admin/theme-info.php:90
+msgid "Free Vs Pro"
+msgstr ""
+
+#: inc/admin/theme-info.php:96
+msgid "Features"
+msgstr ""
+
+#: inc/admin/theme-info.php:99
+msgid "Free"
+msgstr ""
+
+#: inc/admin/theme-info.php:102
+msgid "Pro"
+msgstr ""
+
+#: inc/admin/theme-info.php:109
+msgid "Easy Setup"
+msgstr ""
+
+#: inc/admin/theme-info.php:118
+msgid "Responsive"
+msgstr ""
+
+#: inc/admin/theme-info.php:128
+msgid "Advance Color Options"
+msgstr ""
+
+#: inc/admin/theme-info.php:137
+msgid "800+ Fonts"
+msgstr ""
+
+#: inc/admin/theme-info.php:146
+msgid "Slider Options "
+msgstr ""
+
+#: inc/admin/theme-info.php:155
+msgid "Customizer"
+msgstr ""
+
+#: inc/admin/theme-info.php:164
+msgid "Front/ Home page posts categories"
+msgstr ""
+
+#: inc/admin/theme-info.php:173
+msgid "Boxed Layout"
+msgstr ""
+
+#: inc/admin/theme-info.php:182
+msgid "Sidebar"
+msgstr ""
+
+#: inc/admin/theme-info.php:184
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/admin/theme-info.php:186
+msgid "Right/Left/ Fullwidth/ No Sidebar"
+msgstr ""
+
+#: inc/admin/theme-info.php:191
+msgid "Back to Top"
+msgstr ""
+
+#: inc/admin/theme-info.php:200
+msgid "bbPress Compatibility"
+msgstr ""
+
+#: inc/admin/theme-info.php:209
+msgid "Styles"
+msgstr ""
+
+#: inc/admin/theme-info.php:211
+msgid "4"
+msgstr ""
+
+#: inc/admin/theme-info.php:213
+msgid "13"
+msgstr ""
+
+#: inc/admin/theme-info.php:218
+msgid "Templates"
+msgstr ""
+
+#: inc/admin/theme-info.php:220
+msgid "15"
+msgstr ""
+
+#: inc/admin/theme-info.php:222
+msgid "17"
+msgstr ""
+
+#: inc/admin/theme-info.php:228 patterns/footer-three-column.php:81
+msgid "Patterns"
+msgstr ""
+
+#: inc/admin/theme-info.php:230
+msgid "16"
+msgstr ""
+
+#: inc/admin/theme-info.php:232
+msgid "21"
+msgstr ""
+
+#: inc/admin/theme-info.php:241
+msgid "Love our product?"
+msgstr ""
+
+#: inc/admin/theme-info.php:244
+msgid "Motivate 5 Star rating"
+msgstr ""
+
+#: inc/admin/theme-info.php:247
+msgid "Rate Us"
+msgstr ""
+
+#: inc/admin/theme-info.php:252
+msgid "Still have any question?"
+msgstr ""
+
+#: inc/admin/theme-info.php:255
+msgid "Don't hesitate to ask"
+msgstr ""
+
+#: inc/admin/theme-info.php:258
+msgid "Get Support"
+msgstr ""
+
+#: inc/block-patterns.php:18 patterns/footer-three-column.php:12
+msgid "BlackCart"
+msgstr ""
+
+#: inc/block-patterns.php:19 patterns/sidebar.php:41
+msgid "Pages"
+msgstr ""
+
+#: patterns/all-products.php:12
+msgid "Display all Products from Store"
+msgstr ""
+
+#: patterns/all-products.php:16
+msgid "All Products !!!"
+msgstr ""
+
+#: patterns/call-to-action-1.php:14
+msgid "Holiday Sale"
+msgstr ""
+
+#: patterns/call-to-action-1.php:18
+msgid "Save up to 60%"
+msgstr ""
+
+#: patterns/call-to-action-1.php:22
+msgid "Make the day special with  discounted products."
+msgstr ""
+
+#: patterns/call-to-action-1.php:31
+msgid "SHOP  HOLIDAY SALE"
+msgstr ""
+
+#: patterns/download-application.php:18
+msgid "Download"
+msgstr ""
+
+#: patterns/download-application.php:22 patterns/sidebar.php:19
+msgid "Lorem ipsum dolor sit amet, consec tetur adipiscing elit. Maecenas odio lacus, dignissim sollicitudin finibus commodo, rhoncus et ante."
+msgstr ""
+
+#: patterns/error-404.php:10
+msgid "404 !!!"
+msgstr ""
+
+#: patterns/error-404.php:14
+msgid "NOTHING FOUND"
+msgstr ""
+
+#: patterns/error-404.php:18
+msgid "Apologies, but the page you requested could not be found. Perhaps searching will help."
+msgstr ""
+
+#: patterns/footer-default.php:12
+msgid "Copyright © 2023 All rights reserved."
+msgstr ""
+
+#: patterns/footer-default.php:12
+msgid "BlackCart  by"
+msgstr ""
+
+#: patterns/footer-default.php:12
+msgid "Theme Canary"
+msgstr ""
+
+#: patterns/footer-three-column.php:16
+msgid "Your content, your design, and your data always belong to you. With WordPress you’re free to tell your story, grow your brand, or simply be yourself."
+msgstr ""
+
+#: patterns/footer-three-column.php:36
+msgid "Products"
+msgstr ""
+
+#: patterns/footer-three-column.php:41
+msgid "Shop"
+msgstr ""
+
+#: patterns/footer-three-column.php:45
+msgid "Plans &amp; Pricing"
+msgstr ""
+
+#: patterns/footer-three-column.php:49
+msgid "People Choice"
+msgstr ""
+
+#: patterns/footer-three-column.php:53
+msgid "Discount &amp; Coupon"
+msgstr ""
+
+#: patterns/footer-three-column.php:57
+msgid "Photo Gallery"
+msgstr ""
+
+#: patterns/footer-three-column.php:61
+msgid "Pricing"
+msgstr ""
+
+#: patterns/footer-three-column.php:68
+msgid "Showcase"
+msgstr ""
+
+#: patterns/footer-three-column.php:73
+msgid "Themes"
+msgstr ""
+
+#: patterns/footer-three-column.php:77
+msgid "Plugins"
+msgstr ""
+
+#: patterns/footer-three-column.php:85
+msgid "Hosting"
+msgstr ""
+
+#: patterns/footer-three-column.php:89
+msgid "F.A.Q"
+msgstr ""
+
+#: patterns/footer-three-column.php:93
+msgid "Terms &amp; Conditions"
+msgstr ""
+
+#: patterns/header-navigation.php:17
+msgid "Perfect Shoppingcart Theme"
+msgstr ""
+
+#: patterns/header-top-bar.php:10
+msgid "Seasonal sales for all products – off 50%!"
+msgstr ""
+
+#: patterns/header-top-bar.php:25
+msgid " +123 456 789"
+msgstr ""
+
+#: patterns/header-top-bar.php:35
+msgid "mailto:support@example.com"
+msgstr ""
+
+#: patterns/header-top-bar.php:35
+msgid "support@example.com"
+msgstr ""
+
+#: patterns/header-top-bar.php:45
+msgid "Your Location"
+msgstr ""
+
+#: patterns/hidden-no-results-content.php:9
+msgid "No results found"
+msgstr ""
+
+#: patterns/hidden-no-results-content.php:13
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: patterns/main-banner.php:29
+msgid "Dream with music"
+msgstr ""
+
+#: patterns/main-banner.php:33
+msgid "Get latest version with discount upto 25%"
+msgstr ""
+
+#: patterns/main-banner.php:42 patterns/main-banner.php:66
+#: patterns/main-banner.php:176 patterns/main-banner.php:196
+#: patterns/main-banner.php:218 patterns/main-banner.php:254
+msgid "SHOP NOW"
+msgstr ""
+
+#: patterns/main-banner.php:53
+msgid "Drone"
+msgstr ""
+
+#: patterns/main-banner.php:57
+msgid "Get flat discount upto 25%"
+msgstr ""
+
+#: patterns/main-banner.php:83
+msgid "POPULAR"
+msgstr ""
+
+#: patterns/main-banner.php:88
+msgid "Womens Fashion"
+msgstr ""
+
+#: patterns/main-banner.php:94
+msgid "Health &amp; Beauty"
+msgstr ""
+
+#: patterns/main-banner.php:100
+msgid "Laptop &amp; Computer"
+msgstr ""
+
+#: patterns/main-banner.php:106
+msgid "Watches &amp; Accessories"
+msgstr ""
+
+#: patterns/main-banner.php:112
+msgid "Electronic Devices"
+msgstr ""
+
+#: patterns/main-banner.php:118
+msgid "TV &amp; Home Appliances"
+msgstr ""
+
+#: patterns/main-banner.php:124
+msgid "Groceries &amp; Pets"
+msgstr ""
+
+#: patterns/main-banner.php:130
+msgid "Sports &amp; Outdoor"
+msgstr ""
+
+#: patterns/main-banner.php:136
+msgid "Home &amp; Lifestyle"
+msgstr ""
+
+#: patterns/main-banner.php:155
+msgid "Summer Deals!"
+msgstr ""
+
+#: patterns/main-banner.php:159
+msgid "FLASH"
+msgstr ""
+
+#: patterns/main-banner.php:159
+msgid "SALE !!!"
+msgstr ""
+
+#: patterns/main-banner.php:163
+msgid "Free home delivery"
+msgstr ""
+
+#: patterns/main-banner.php:167
+msgid "Donot miss the opportunity. Get \"UPTO 50%\" off !!"
+msgstr ""
+
+#: patterns/main-banner.php:187
+msgid "Iphone"
+msgstr ""
+
+#: patterns/main-banner.php:191
+#, no-php-format
+msgid "10% off !!"
+msgstr ""
+
+#: patterns/main-banner.php:209
+msgid "Tshirt"
+msgstr ""
+
+#: patterns/main-banner.php:213
+#, no-php-format
+msgid "30% off !!"
+msgstr ""
+
+#: patterns/main-banner.php:241
+msgid "Latest fashion design"
+msgstr ""
+
+#: patterns/main-banner.php:245
+msgid "Get latest version with discount upto 60%"
+msgstr ""
+
+#: patterns/page-cart.php:20
+msgid "You may be interested in…"
+msgstr ""
+
+#: patterns/page-cart.php:76
+msgid "Your cart is currently empty!"
+msgstr ""
+
+#: patterns/page-cart.php:80
+msgid "Browse store"
+msgstr ""
+
+#: patterns/page-cart.php:88
+msgid "New in store"
+msgstr ""
+
+#: patterns/product-collection.php:12
+msgid "Display Collection of Products from Store"
+msgstr ""
+
+#: patterns/product-collection.php:16
+msgid "Product Collection !!!"
+msgstr ""
+
+#: patterns/product-search-results.php:47
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: patterns/sidebar.php:11
+msgid "About"
+msgstr ""
+
+#: patterns/sidebar.php:25
+msgid "Categories"
+msgstr ""
+
+#: patterns/sidebar.php:33
+msgid "Recent Post"
+msgstr ""
+
+#: patterns/sidebar.php:49
+msgid "Tags"
+msgstr ""
+
+#: patterns/we-offer.php:22
+msgid "Seo Friendly"
+msgstr ""
+
+#: patterns/we-offer.php:34
+msgid "Free Trading"
+msgstr ""
+
+#: patterns/we-offer.php:46
+msgid "Money Back Gurantee"
+msgstr ""
